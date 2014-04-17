@@ -1,7 +1,7 @@
 (function(){
   'use strict';
 
-    var player = 0;
+  //  var player = 0;
 
       $(document).ready(init);
 
